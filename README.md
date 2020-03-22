@@ -5,6 +5,8 @@
 範例
 https://e56789789.github.io/counter/index.html
 
+
+
 使用說明
 jQuery CDN
 
@@ -12,7 +14,6 @@ jQuery CDN
 counter CDN
 
 <script src="https://e56789789.github.io/counter/counter.js"></script>
-
 添加屬性
 
 data-ct-number="數字"
