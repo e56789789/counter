@@ -12,3 +12,8 @@ jQuery CDN
 counter CDN
 
 <script src="https://e56789789.github.io/counter/counter.js"></script>
+
+添加屬性
+
+data-ct-number="數字"
+data-ct-duration="時間"
